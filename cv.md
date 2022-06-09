@@ -41,7 +41,6 @@ Vadim Ksendzov 'QA couse'
 - Quick to adapt to unexpected changes
 - Motivation
 - Communication
-- Teamwork
 - Interpersonal skills
 
 
