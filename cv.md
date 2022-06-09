@@ -42,6 +42,7 @@ Vadim Ksendzov 'QA couse'
 - Motivation
 - Communication
 - Interpersonal skills
+- Teamwork
 
 
 ## Hard skills:
