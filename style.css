@@ -2,23 +2,3 @@ h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 <style type="text/css">
-  body {
-    color: purple;
-    background-color: #d8da3d }
-  </style>
-body { color: purple }
-body { background-color: #d8da3d }
-body {
-  padding-left: 11em;
-  font-family: Georgia, "Times New Roman",
-        Times, serif;
-  color: purple;
-  background-color: #d8da3d }
-ul.navbar {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  position: absolute;
-  top: 2em;
-  left: 1em;
-  width: 9em }
